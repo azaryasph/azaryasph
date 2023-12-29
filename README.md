@@ -32,10 +32,12 @@ I am Azarya Yehezkiel Pinondang Sipahutar, a highly skilled data scientist with 
 
 <a href="http://www.github.com/azaryasph"><img src="https://github-readme-streak-stats.herokuapp.com/?user=azaryasph&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/azaryasph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=azaryasph&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/azaryasph" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaryasph&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/azaryasph/finpro-stigma-rakamin-ds-36" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=azaryasph&repo=finpro-stigma-rakamin-ds-36&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<b>My Activity Graph</b>
+
+![Azarya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=azaryasph&custom_title=Azarya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
