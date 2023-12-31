@@ -12,6 +12,10 @@ I am Azarya Yehezkiel Pinondang Sipahutar, a highly skilled data scientist with 
 * 🤝  I'm open to collaborating on Data Scientist Project
 * ⚡  Why did the data scientist break up with their calculator? Because they thought it was too "algorithmic" and not "data-driven" enough for their taste!
 
+<p align="center">
+  <img src="https://c4.wallpaperflare.com/wallpaper/1021/242/468/beagles-dog-blurred-depth-of-field-wallpaper-preview.jpg" width="500" height="300">
+</p>
+
 ### Skills
 
 
